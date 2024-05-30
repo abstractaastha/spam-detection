@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on detecting spam messages in emails and SMS using machine learning techniques. By analyzing text features and employing a variety of classification algorithms, the model identifies whether a given message is spam or not. The application also includes a user-friendly interface to facilitate easy and intuitive interaction for spam detection.
 
+**App link:** https://spam-detection-n53dj6pcmkhwnx72wykdtl.streamlit.app/
+
 ## Features
 - **Text Preprocessing**: Cleans and preprocesses the text data by removing stopwords, punctuation, and applying stemming.
 - **Model Training**: Utilizes various machine learning algorithms like Multinomial Naive Bayes, Support Vector Classifier, Random Forest, Extra Trees Classifier, and XGBoost to predict whether a message is spam.
